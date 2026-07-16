@@ -1,0 +1,27 @@
+{
+    "name": "L298N",
+    "version": "0.1.0",
+    "description": "A library to control the L298N dual H-bridge motor driver module. Provides signed-speed write and braking for DC motors.",
+    "keywords": [
+        "motor",
+        "h-bridge",
+        "motor-driver",
+        "l298n",
+        "pwm",
+        "dc-motor"
+    ],
+    "authors": [
+        {
+            "name": "Cameron Brooks",
+            "email": "cambrooks3393@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/CameronBrooks11/L298N_Arduino"
+    },
+    "license": "GPL-3.0-only",
+    "frameworks": "arduino",
+    "platforms": "*"
+}
