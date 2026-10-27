@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/CameronBrooks11/L298N_Arduino"
+        "url": "https://github.com/feastorg/l298n"
     },
     "license": "GPL-3.0-only",
     "frameworks": "arduino",
